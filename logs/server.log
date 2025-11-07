@@ -1,9 +1,10 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [215] using StatReload
-INFO:     Started server process [217]
+INFO:     Started reloader process [258] using StatReload
+INFO:     Started server process [260]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:36286 - "GET /api/tmdb/trending?media_type=movie&time_window=day HTTP/1.1" 500 Internal Server Error
-INFO:     172.20.0.1:36294 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:38196 - "GET /api/tmdb/trending?media_type=movie&time_window=day HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:59686 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:59466 - "GET /api/tmdb/trending?media_type=movie&time_window=day HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:59474 - "GET /api/tmdb/trending?media_type=movie&time_window=day HTTP/1.1" 500 Internal Server Error
+INFO:     172.20.0.1:59486 - "GET /api/tmdb/trending?media_type=movie&time_window=day HTTP/1.1" 500 Internal Server Error
